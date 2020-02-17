@@ -1,1 +1,2 @@
-# FanYanshuo-201808
+# FanYanshuo
+This project is to recommend my wife's lovely code learning step.
